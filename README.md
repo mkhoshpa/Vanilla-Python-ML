@@ -9,4 +9,5 @@ Algorithms Included:
 * Random Forest
 * ID3
 * KNN
+
 <a href="https://github.com/mkhoshpa/Vanilla-Python-ML/blob/master/machine_learning_project.pdf">Project Report</a>.
